@@ -1,0 +1,4 @@
+--patch-module
+jmpdto=_
+--add-reads
+jmpdto=ALL-UNNAMED

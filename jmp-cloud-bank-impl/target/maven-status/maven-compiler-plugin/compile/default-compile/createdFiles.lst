@@ -1,2 +1,2 @@
 module-info.class
-org\epam\jmp\impl\BankImpl.class
+com\epam\jmp\impl\BankImpl.class

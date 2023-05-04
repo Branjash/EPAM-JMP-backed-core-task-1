@@ -1,0 +1,4 @@
+--patch-module
+jmpbankapi=_
+--add-reads
+jmpbankapi=ALL-UNNAMED

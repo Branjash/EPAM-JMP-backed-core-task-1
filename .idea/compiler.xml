@@ -17,4 +17,13 @@
       <module name="jmp-bank-api" target="11" />
     </bytecodeTargetLevel>
   </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="jmp-cloud-bank-impl" options="" />
+      <module name="jmp-cloud-service-impl" options="" />
+      <module name="jmp-dto" options="" />
+      <module name="jmp-service-api" options="" />
+      <module name="jpm-bank-api" options="" />
+    </option>
+  </component>
 </project>

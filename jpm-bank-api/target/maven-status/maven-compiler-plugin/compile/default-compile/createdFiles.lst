@@ -1,1 +1,2 @@
-org\epam\jmp\App.class
+com\epam\jmp\api\Bank.class
+module-info.class

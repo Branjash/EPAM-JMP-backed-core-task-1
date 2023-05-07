@@ -1,4 +1,5 @@
 module jmpserviceapi {
-    requires jmpdto;
+    requires transitive jmpdto;
+    requires jmpbankapi;
     exports com.epam.jmp.service;
 }

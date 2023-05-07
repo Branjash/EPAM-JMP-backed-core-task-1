@@ -1,4 +1,4 @@
 module jmpbankapi {
-    requires jmpdto;
+    requires transitive jmpdto;
     exports com.epam.jmp.api;
 }

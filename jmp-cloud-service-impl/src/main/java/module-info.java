@@ -1,5 +1,5 @@
 module jmpcloudserviceimpl {
     requires jmpserviceapi;
-    requires jmpdto;
+    requires jmpbankapi;
     exports com.epam.jmp.impl;
 }

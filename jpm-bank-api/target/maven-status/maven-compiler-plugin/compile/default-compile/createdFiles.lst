@@ -1,2 +1,6 @@
+com\epam\jmp\api\CreditBankCardRepository.class
+com\epam\jmp\api\SubscriptionRepository.class
 com\epam\jmp\api\Bank.class
 module-info.class
+com\epam\jmp\api\UserRepository.class
+com\epam\jmp\api\DebitBankCardRepository.class
